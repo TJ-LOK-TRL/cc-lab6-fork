@@ -69,3 +69,5 @@ The API may still struggle to connect to the database depending on the boot sequ
       postgres-db:
         condition: service_healthy
 ```
+
+TEST
